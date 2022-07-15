@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "name"
+git remote add origin git@github.com:cyhopensource/algorithme_offer_guide.git
+git push -u origin main
